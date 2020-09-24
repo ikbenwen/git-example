@@ -7,6 +7,8 @@ public class Main {
 
         Person p = new Person("Sjaak");
 
+        Person Harrie = new Person("Harrie")
+
         System.out.println(p.getName());
     }
 }
